@@ -1,1 +1,1 @@
-# .github
+# Vancouver District Hackathon
