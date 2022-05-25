@@ -1,2 +1,2 @@
 # Vancouver District Hackathon
-This is github for the upcoming Vancouver District Highschool Hackathon
+This is the github for the upcoming Vancouver District Highschool Hackathon
