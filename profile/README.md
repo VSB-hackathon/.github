@@ -7,6 +7,7 @@ Details will soon be revealed.
 
 # List of Schools
 - Burnaby Central
+- Burnaby North
 - David Thompson
 - Eric Hamber
 - John Oliver
