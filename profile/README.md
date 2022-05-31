@@ -11,6 +11,7 @@ Details will soon be revealed.
 - David Thompson
 - Eric Hamber
 - John Oliver
+- Killarney
 - Lord Byng
 - Sir Winston Churchill
 - University Hill
